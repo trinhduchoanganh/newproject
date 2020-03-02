@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Shopback.Model.Models
+namespace ShopBack.Model.Models
 {
     [Table("OrderDetails")]
     public class OrderDetail
